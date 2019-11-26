@@ -5,9 +5,11 @@
 
 > Follow the instructions in the order found below
 >
-> Create a file called `array.py `
 >
-> 1. In the `array.py` create an array with the following elements in this order
+> Create a file called `array.py `
+> 
+> print your first and last name 
+> 1.In the `array.py` create an array with the following elements in this order
 > - Ford
 > - Chrysler
 > - Dodge
