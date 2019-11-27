@@ -12,7 +12,7 @@
 > 
 `problem 1. print your first and last name`
 
-`problem 2. In the array.py create an array named 'cars' with the following elements in this order (use single quotes for each element)EX: 'Ford' not "Ford" ---- Ford,Chrysler,Dodge,Ram,Jeep,Chevy,GMC`
+`problem 2. In the array.py create an array named 'cars' with the following elements in this order  ---- Ford,Chrysler,Dodge,Ram,Jeep,Chevy,GMC` (use single quotes for each element)EX: 'Ford' not "Ford" spelling matters
    
 `problem 3. print the array to the console`
 
