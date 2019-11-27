@@ -8,8 +8,9 @@
 >
 > Create a file called `array.py `
 > 
-> print your first and last name 
-> 1.In the `array.py` create an array with the following elements in this order
+> 1. print your first and last name 
+> 2. In the `array.py` create an array named 'cars' with the following elements in this order (use single quotes for each element)EX: 'Ford' not "Ford"
+>
 > - Ford
 > - Chrysler
 > - Dodge
