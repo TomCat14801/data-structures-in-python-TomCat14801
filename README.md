@@ -8,6 +8,7 @@
 >
 > Create a file called `array.py `
 > 
+> Unless explicitly stated each of these problems should only take one line of code (Do not comment on the same line of code, use comments before or after the line of code)
 > 1. print your first and last name 
 > 2. In the `array.py` create an array named 'cars' with the following elements in this order (use single quotes for each element)EX: 'Ford' not "Ford"
 >
@@ -20,7 +21,7 @@
 > - GMC
 > 2. print the array to the console
 >
->3. print the length of the array to the console
+>3. print the length of the array to the console 
 >
 >4. Append Buick to the Array -- print the array
 >
