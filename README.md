@@ -12,13 +12,13 @@
 > 
 `problem 1. print your first and last name`
 
-`problem 2. In the `array.py` create an array named 'cars' with the following elements in this order (use single quotes for each element)EX: 'Ford' not "Ford" ---- Ford,Chrysler,Dodge,Ram,Jeep,Chevy,GMC`
+`problem 2. In the array.py create an array named 'cars' with the following elements in this order (use single quotes for each element)EX: 'Ford' not "Ford" ---- Ford,Chrysler,Dodge,Ram,Jeep,Chevy,GMC`
    
-> problem 3. print the array to the console
+` problem 3. print the array to the console`
 >
-> problem 4. print the length of the array to the console 
+> `problem 4. print the length of the array to the console `
 >
-> problem 5. Append Buick to the Array
+> `problem 5. Append Buick to the Array`
 >
 > problem 6. print the array to the console
 >
