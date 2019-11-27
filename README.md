@@ -11,16 +11,17 @@
 > Unless explicitly stated each of these problems should only take one line of code (Do not comment on the same line of code, use comments before or after the line of code)
 > 
 `problem 1. print your first and last name`
->
->   problem 2. In the `array.py` create an array named 'cars' with the following elements in this order (use single quotes for each element)EX: 'Ford' not "Ford"
->
->   - Ford
->   - Chrysler
->   - Dodge
->   - Ram
->   - Jeep
->   - Chevy
->   - GMC
+
+`problem 2. In the `array.py` create an array named 'cars' with the following elements in this order (use single quotes for each element)EX: 'Ford' not "Ford"`
+
+  ` - Ford
+   - Chrysler
+   - Dodge
+   - Ram
+   - Jeep
+   - Chevy
+   - GMC`
+   
 > problem 3. print the array to the console
 >
 > problem 4. print the length of the array to the console 
