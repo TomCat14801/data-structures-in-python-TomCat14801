@@ -6,7 +6,7 @@
 > Follow the instructions in the order found below
 >
 >
-> Create a file called `array.py `
+> Create a file called `cars.py `
 > 
 > Unless explicitly stated each of these problems should only take one line of code (Do not comment on the same line of code, use comments before or after the line of code)
 > 
